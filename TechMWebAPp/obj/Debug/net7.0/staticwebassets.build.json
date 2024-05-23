@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R1+KyVUWuerGrPf45jt7o5nsqTjUDSTxfAMZ4n7AsT8=",
+  "Hash": "auc8EIAgqoTVfAYmgDQfF4Cxt8wwqdawVSVzHm2/n64=",
   "Source": "TechMWebAPp",
   "BasePath": "_content/TechMWebAPp",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TechMWebAPp.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\css\\rose1.jpg",
+      "SourceId": "TechMWebAPp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\",
+      "BasePath": "_content/TechMWebAPp",
+      "RelativePath": "css/rose1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\rose1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\css\\site.css",
       "SourceId": "TechMWebAPp",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\Images\\workout.webp",
+      "SourceId": "TechMWebAPp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\",
+      "BasePath": "_content/TechMWebAPp",
+      "RelativePath": "Images/workout.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\workout.webp"
     },
     {
       "Identity": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\js\\site.js",

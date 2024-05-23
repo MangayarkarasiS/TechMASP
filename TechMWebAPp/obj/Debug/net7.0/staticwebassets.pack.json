@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\TechMWebAPp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\Images\\workout.webp",
+      "PackagePath": "staticwebassets\\Images\\workout.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\css\\rose1.jpg",
+      "PackagePath": "staticwebassets\\css\\rose1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Mangai\\source\\repos\\TechM\\TechMWebAPp\\TechMWebAPp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "LoginPage";
+}
+
+<h1>LoginPage</h1>
+
+
+
+
+@using (Html.BeginForm("Log", "Home"))
+{
+    @Html.Label("UserName:")
+    @Html.TextBox("UserName")
+    <br/>
+    @Html.Label("Password:")
+    @Html.TextBox("Password")
+    <input type="submit" value="Login" />
+}

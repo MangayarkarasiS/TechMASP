@@ -6,10 +6,10 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
+@Html.Partial("View.cshtml")
 <ul>
 @foreach (var item in @ViewBag.country)
 {
-        <h2>
-        <li>@item</li>   </h2>
-    }
+        <h2>  <li>@item</li>   </h2>
+}
 </ul>
